@@ -1,12 +1,2 @@
 Flask
 Gunicorn
-langchain
-requests
-pydantic
-httpx
-asyncio
-openai
-bardapi
-deep_translator
-python-dotenv
-revChatGPT
