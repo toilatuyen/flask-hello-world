@@ -9,3 +9,4 @@ openai
 bardapi
 deep_translator
 python-dotenv
+revChatGPT
